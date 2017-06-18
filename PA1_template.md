@@ -1,5 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
+author: "Almudena Molla"
 output: 
   html_document:
     keep_md: true
