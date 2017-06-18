@@ -1,7 +1,8 @@
 ---
-title: 'Reproducible Research: Peer Assessment 1'
-author: "AlmudenaMolla"
-output: html_document
+ttitle: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
 ---
 # Reproducible Research - Coursera (Johns Hopkins University)
 ## Peer Assessment 1
